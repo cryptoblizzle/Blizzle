@@ -1,2 +1,2 @@
 # Blizzle
-Blizzle AI with embedded vid &amp; Blizzle produced returned
+Blizzle AI with embedded vid &amp; Blizzle produced returne
